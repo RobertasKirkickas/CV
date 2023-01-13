@@ -56,10 +56,12 @@ return (
 <br></br>
 <h2>Projects</h2>
 <div className="projects">
+<p>Created online CV using React, Bootstrap, CSS, JavaScript.</p>
+<p>Build clone website using React, CSS, JavaScript, Bootstrap. </p>
+<p>Build complete website using HTML, CSS, JavaScript.</p>
 <p>Caesar Cipher encoding program - which encodes/decodes the given text input.</p>
 <p>Simple calculator - add, subtract, multiply and divide two given numbers.</p>
 <p>Temperature converter - converts temperature from/to Celsius, Fahrenheit, Kelvin.</p>
-<p>Basic HTML, CSS, JavaScript website.</p>
 </div>
 </div>
 );
