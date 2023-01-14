@@ -11,7 +11,7 @@ return (
 <h2>Work History</h2><br></br>
 <div className="work-history">
 <h3>Warehouse Associate</h3>
-<p className="work-dates">June 2022 - Nov 2022</p>
+<p className="work-dates">June 2022 - Current</p>
 <p>Sorting out received deliveries</p>
 <p>Data entry to the system</p>
 <p>Putaway products to designated locations</p>
@@ -56,10 +56,12 @@ return (
 <br></br>
 <h2>Projects</h2>
 <div className="projects">
+<p>Created online CV using React, Bootstrap, CSS, JavaScript.</p>
+<p>Build clone website using React, CSS, JavaScript, Bootstrap. </p>
+<p>Build complete website using HTML, CSS, JavaScript.</p>
 <p>Caesar Cipher encoding program - which encodes/decodes the given text input.</p>
 <p>Simple calculator - add, subtract, multiply and divide two given numbers.</p>
 <p>Temperature converter - converts temperature from/to Celsius, Fahrenheit, Kelvin.</p>
-<p>Basic HTML, CSS, JavaScript website.</p>
 </div>
 </div>
 );
