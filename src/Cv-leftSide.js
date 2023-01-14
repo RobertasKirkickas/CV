@@ -1,11 +1,13 @@
 import React from 'react';
 import PersonalProfiles from './PersonalProfiles';
+import Me from './me.png'
 
 const CVLeft = () => {
   return (
     <div className="grid-item-left">
       <div className="contact-info">
-
+        <img className="img-circle center-block" src={Me} width="200" alt="profile pic" />
+        <br />
       <div className="name-surname">
         <h1>Robertas Kirkickas</h1>
         <h3>Student Full-Stack Web Developer</h3>
