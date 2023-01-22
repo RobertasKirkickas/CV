@@ -4,9 +4,9 @@ const CVMiddle = () => {
 return (
 <div className="grid-item-mid" style={{ textAlign: 'left' }}>
     <div className='About' style={{ textAlign: 'center' }}>
-    Student Full-Stack Web Developer based in Ipswich, with a passion for coding, problem solving and learning new technologies. 
-    I am currently enrolled in a bootcamp Full-Stack Web Development with HyperionDev, where I am learning about front-end and back-end development. 
-    I am looking forward to working with experienced developers to gain more skills and develop myself as a professional Web Developer.
+    Junior Full-Stack Web Developer based in Ipswich, with a passion for coding, problem solving and learning new technologies. 
+    I am just finished bootcamp of Full-Stack Web Development with HyperionDev, where I learned about front-end and back-end development. 
+    I am looking forward to working with experienced developers to gain more skills and develop myself as a Full-Stack Web Developer professional.
     </div>
 <h2>Work History</h2><br></br>
 <div className="work-history">
@@ -26,7 +26,7 @@ return (
 <br></br>
 <h3>Computing</h3>
 <p>I have created some small projects already in my bootcamp. I cannot wait to learn more objects to make more exiting programs and projects.</p>
-<p>Interests: Front-end, back-end development.</p>
+<p>Interests: Front-end, Back-end development.</p>
 <p>Hobbies: Learning programming languages for website creation. Spending time with my family. Active leisure. Socialising. Travelling.</p>
 </div>
 
@@ -34,8 +34,8 @@ return (
 <h2>Education</h2>
 <div className="education">
 <h3>Full-Stack Web Development Bootcamp</h3>
-<p className="education-dates">November 2022 - </p>
-<p>HyperionDev (Currently enrolled)</p>
+<p className="education-dates">November 2022 - January 2023</p>
+<p>HyperionDev</p>
 
 <br></br>
 <h3>Principles of Business Administration</h3>
@@ -56,6 +56,7 @@ return (
 <br></br>
 <h2>Projects</h2>
 <div className="projects">
+<p>Hangman game - using React, Sass, Bootstrap</p>
 <p>Created online CV using React, Bootstrap, CSS, JavaScript.</p>
 <p>Build clone website using React, CSS, JavaScript, Bootstrap. </p>
 <p>Build complete website using HTML, CSS, JavaScript.</p>
