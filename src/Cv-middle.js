@@ -4,19 +4,20 @@ const CVMiddle = () => {
 return (
 <div className="grid-item-mid" style={{ textAlign: 'left' }}>
     <div className='About' style={{ textAlign: 'center' }}>
-    Junior Full-Stack Web Developer based in Ipswich, with a passion for coding, problem solving and learning new technologies. 
-    I am just finished bootcamp of Full-Stack Web Development with HyperionDev, where I learned about front-end and back-end development. 
+    Computing student based in Ipswich, with a passion for coding, problem solving and learning new technologies. 
+    I am finished bootcamp in Web Development with HyperionDev, where I learned about front-end development. 
     I am looking forward to working with experienced developers to gain more skills and develop myself as a Full-Stack Web Developer professional.
+    Currently I am studying at University Of Suffolk, BSc(Hons) - Computing.
     </div>
 <h2>Work History</h2><br></br>
 <div className="work-history">
-<h3>Warehouse Associate</h3>
-<p className="work-dates">June 2022 - Current</p>
-<p>Sorting out received deliveries</p>
-<p>Data entry to the system</p>
-<p>Putaway products to designated locations</p>
-<p>Picking, packing and preparing customers orders</p>
-<p>Product BBE checking for best quality standards</p>
+<h3>Machine operator</h3>
+<p className="work-dates">June 2022 - January 2024</p>
+<p>Mild welding</p>
+<p>Operating Trumph machine</p>
+<p>Assembling units</p>
+<p>Maintaining machine of work</p>
+<p>Product checking checking for best quality standards</p>
 </div>
 
 <br></br>
@@ -25,14 +26,21 @@ return (
 
 <br></br>
 <h3>Computing</h3>
-<p>I have created some small projects already in my bootcamp. I cannot wait to learn more objects to make more exiting programs and projects.</p>
-<p>Interests: Front-end, Back-end development.</p>
-<p>Hobbies: Learning programming languages for website creation. Spending time with my family. Active leisure. Socialising. Travelling.</p>
+<p>I have created some small projects already in my bootcamp. My latest one is TV Shows search website, that is currently under development for 
+    the assignment.
+</p>
+<p>Interests: Front-end development.</p>
+<p>Hobbies: Learning programming languages for website development. Spending time with my family. Active leisure. Socialising. Travelling.</p>
 </div>
 
 <br></br>
 <h2>Education</h2>
 <div className="education">
+
+<h3>BSc(hons) Computing</h3>
+<p className="education-dates">September 2023 - </p>
+<p>University Of Suffolk</p>
+
 <h3>Full-Stack Web Development Bootcamp</h3>
 <p className="education-dates">November 2022 - January 2023</p>
 <p>HyperionDev</p>
@@ -56,6 +64,8 @@ return (
 <br></br>
 <h2>Projects</h2>
 <div className="projects">
+<p>TV Shows search website - using React, Sass, Bootstrap</p>
+<p>Portfolio website - using React, CSS, Bootstrap</p>
 <p>Hangman game - using React, Sass, Bootstrap</p>
 <p>Created online CV using React, Bootstrap, CSS, JavaScript.</p>
 <p>Build clone website using React, CSS, JavaScript, Bootstrap. </p>

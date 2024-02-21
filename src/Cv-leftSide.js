@@ -10,7 +10,7 @@ const CVLeft = () => {
         <br />
       <div className="name-surname">
         <h1>Robertas Kirkickas</h1>
-        <h3>Junior Full-Stack Web Developer</h3>
+        <h3>Computing Student</h3>
       </div>
 <br></br>
         <h2>Contact</h2>
@@ -38,8 +38,8 @@ const CVLeft = () => {
       <br></br>
       <div className="languages">
         <h2>Languages</h2>
-        <p>Lithuanian</p>
         <p>English</p>
+        <p>Lithuanian</p>
       </div>
     </div>
   );
