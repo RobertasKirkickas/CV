@@ -17,7 +17,7 @@ return (
 <p>Operating Trumph machine</p>
 <p>Assembling units</p>
 <p>Maintaining machine of work</p>
-<p>Product checking checking for best quality standards</p>
+<p>Product checking for best quality standards</p>
 </div>
 
 <br></br>
