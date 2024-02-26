@@ -41,7 +41,7 @@ return (
 <p className="education-dates">September 2023 - </p>
 <p>University Of Suffolk</p>
 
-<h3>Full-Stack Web Development Bootcamp</h3>
+<h3>Web Development Bootcamp</h3>
 <p className="education-dates">November 2022 - January 2023</p>
 <p>HyperionDev</p>
 
